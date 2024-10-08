@@ -1,0 +1,1 @@
+FROM chhzh123/allo:llvm-19.x-py3.12
